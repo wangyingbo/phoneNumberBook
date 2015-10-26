@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2b235c2c-2356-4180-8441-932b1d25fc4d++6083",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2b235c2c-2356-4180-8441-932b1d25fc4d++6887" : {
+
+    },
+    "2b235c2c-2356-4180-8441-932b1d25fc4d++6083" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2b235c2c-2356-4180-8441-932b1d25fc4d++6887" : 0,
+    "2b235c2c-2356-4180-8441-932b1d25fc4d++6083" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "88C6173F-7A2E-4896-9CCF-AFDC03A8B1A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2b235c2c-2356-4180-8441-932b1d25fc4d++6887" : "BaiBaoHui",
+    "2b235c2c-2356-4180-8441-932b1d25fc4d++6083" : "Kergou\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Kergou",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Kergou.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.9.27\/ecplus\/JPSaleClient",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2b235c2c-2356-4180-8441-932b1d25fc4d++6083"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.9.27\/ecplus\/JPSaleClient",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2b235c2c-2356-4180-8441-932b1d25fc4d++6887"
+    }
+  ]
+}

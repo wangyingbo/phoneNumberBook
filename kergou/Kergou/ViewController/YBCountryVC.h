@@ -1,0 +1,19 @@
+//
+//  YBCountryVC.h
+//  Kergou
+//
+//  Created by 王迎博 on 15/9/25.
+//  Copyright (c) 2015年 张帅. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface YBCountryVC : BasicViewController
+
+@property (weak, nonatomic) IBOutlet UICollectionView *collectionView;
+@property (nonatomic)CGFloat cellFloat;
+
+@property (nonatomic,strong)NSArray *collectionModelArr;
+@property (nonatomic,strong)NSArray *collectionModelLarge;
+@property (nonatomic,strong)NSArray *collectionModelSmall;
+@end
